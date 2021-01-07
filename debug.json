@@ -1,0 +1,91 @@
+{
+    "nodeType": "document",
+    "data": {},
+    "content": [
+       {
+          "nodeType": "heading-3",
+          "content": [
+             {
+                "nodeType": "text",
+                "value": "First time setting up",
+                "marks": [],
+                "data": {}
+             }
+          ],
+          "data": {}
+       },
+       {
+          "nodeType": "paragraph",
+          "content": [
+             {
+                "nodeType": "text",
+                "value": "Here's how you can debug your apps",
+                "marks": [],
+                "data": {}
+             }
+          ],
+          "data": {}
+       },
+       {
+          "nodeType": "embedded-asset-block",
+          "content": [],
+          "data": {
+             "target": {
+                "sys": {
+                   "id": "3Z9eF4OigsdOzMvmpMlByY",
+                   "type": "Link",
+                   "linkType": "Asset"
+                }
+             }
+          }
+       },
+       {
+          "nodeType": "paragraph",
+          "content": [
+             {
+                "nodeType": "text",
+                "value": "",
+                "marks": [],
+                "data": {}
+             }
+          ],
+          "data": {}
+       },
+       {
+          "nodeType": "paragraph",
+          "content": [
+             {
+                "nodeType": "text",
+                "value": "",
+                "marks": [],
+                "data": {}
+             }
+          ],
+          "data": {}
+       },
+       {
+          "nodeType": "paragraph",
+          "content": [
+             {
+                "nodeType": "text",
+                "value": "",
+                "marks": [],
+                "data": {}
+             }
+          ],
+          "data": {}
+       },
+       {
+          "nodeType": "paragraph",
+          "content": [
+             {
+                "nodeType": "text",
+                "value": "",
+                "marks": [],
+                "data": {}
+             }
+          ],
+          "data": {}
+       }
+    ]
+ }
